@@ -39,11 +39,17 @@ ALT+END = Closes down Data EXCELerator within 5 seconds
 |||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
 
 • Copy/Paste operations cannot be undone with Data EXCELerator - make backups!
+
 • After use, Copy/Paste operations will not allow you to use Excel's Undo feature to go back in time
+
 • Range Highlighter may leave traces of yellow fill if you click around with it ON, especially with large selections
+
 • Do not type directly into Excel when Range Highlighter is on, it may turn the cell yellow (but you may like that)
+
 • It's hard to explain the different between the two Copy/Paste operations, but they are both useful
+
 • Planning to add more features in the future, like Paste Formatting/Values only and highlighting multiple cells like you would with SHIFT+ARROWKEY. I'm open to any suggestions you may have!
+
 
 • Thanks for using Data EXCELerator! Have fun playing around with it!
 
