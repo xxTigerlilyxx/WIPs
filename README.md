@@ -61,7 +61,7 @@ RangeViewer := 0 ; 0 = Display Active Cell Range & Value next to mouse (ON), 1 =
 RetryCheck := 0 ; Resets Retry Timer variable to 0 tries - 15 tries = close invisible Excel instance
 SelectionHighlight := 0 ; 0 = Highlights the active cell when not in Excel window (ON), 1 = Selection Highlighter feature OFF
 
-;[][][][][][][][][][][][][][][][] Connect To Excel [][][][][][][][][][][][][][][][]; 
+;[][][][][][][][][][][][][][][][] How To Use Data EXCELerator [][][][][][][][][][][][][][][][]; 
 
 MsgBox, 0x2040, Data EXCELerator,
 (
